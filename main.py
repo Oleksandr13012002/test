@@ -12,3 +12,5 @@ def say_bye():
 
 
 print_hi('Alex')
+say_hello()
+say_bye()
